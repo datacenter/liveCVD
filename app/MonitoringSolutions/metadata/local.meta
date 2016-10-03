@@ -1,0 +1,53 @@
+[app/ui]
+version = 6.4.0
+modtime = 1461839457.991887000
+
+[app/launcher]
+version = 6.4.0
+modtime = 1461839457.998905000
+
+[html/server_view]
+owner = admin
+version = 6.4.0
+modtime = 1462186109.543429000
+
+[views/compute]
+owner = admin
+version = 6.4.0
+modtime = 1462187293.184985000
+
+[views/hadoop_view]
+owner = admin
+version = 6.4.0
+modtime = 1462174811.945847000
+
+[views/home]
+owner = admin
+version = 6.4.0
+modtime = 1461840854.998595000
+
+[html/home]
+access = read : [ * ], write : [ admin, power ]
+owner = admin
+version = 6.4.0
+modtime = 1462284485.879853000
+
+[views/switch_line]
+owner = admin
+version = 6.4.0
+modtime = 1462189334.481982000
+
+[views/switch_view]
+owner = admin
+version = 6.4.0
+modtime = 1462174151.624614000
+
+[html/switch_view_html]
+owner = admin
+version = 6.4.0
+modtime = 1462189184.320724000
+
+[html/hadoop_stats_html]
+owner = admin
+version = 6.4.0
+modtime = 1462283931.186618000
